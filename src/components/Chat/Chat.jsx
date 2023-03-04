@@ -7,7 +7,7 @@ import s from './Chat.module.css'
 import emoji from '../../assets/images/emoji.svg'
 import {Messages} from "../Messages/Messages";
 
-const socket = io.connect('http://localhost:4000');
+const socket = io.connect('https://online-chat-546e.onrender.com');
 
 export const Chat = () => {
   const navigate = useNavigate();
