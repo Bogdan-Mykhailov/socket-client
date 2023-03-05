@@ -1,5 +1,7 @@
 body {
-  background: rgb(99, 37, 169);
+  background: #77A1D3;
+  background: -webkit-linear-gradient(to bottom, #E684AE, #79CBCA, #77A1D3);
+  background: linear-gradient(to bottom, #E684AE, #79CBCA, #77A1D3);
   font-size: 16px;
   font-family: Rubik, Roboto, sans-serif;
   padding: 0;
