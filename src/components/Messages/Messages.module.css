@@ -30,7 +30,7 @@
   width: 25px;
   left: 0;
   border-top-left-radius: 12px;
-  box-shadow: 0 -11px 0 0 #514c4c; /* This is where the magic happens! */
+  box-shadow: 0 -11px 0 0 #514c4c;
 }
 
 .user {
@@ -75,7 +75,7 @@
   right: 0;
   border-top-left-radius: 0;
   border-top-right-radius: 12px;
-  box-shadow: 0 -11px 0 0 #0d49d7; /* This is where the magic happens! */
+  box-shadow: 0 -11px 0 0 #0d49d7;
 }
 
 .me .user {
